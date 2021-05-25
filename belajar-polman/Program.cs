@@ -11,6 +11,7 @@ namespace belajar_polman
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// tes untuk push github
         [STAThread]
         static void Main()
         {
